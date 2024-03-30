@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="BookShop-ejb/src/java"/>
+	<classpathentry kind="src" path="BookShop-war/src/java"/>
+	<classpathentry exported="true" kind="lib" path="BookShop-ejb/dist/BookShop-ejb.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/BookShop-ejb.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/phucd/GlassFishServer/glassfish/lib/javaee.jar"/>
+	<classpathentry kind="output" path="BookShop-ejb/build/classes"/>
+</classpath>

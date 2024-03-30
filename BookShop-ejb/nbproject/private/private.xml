@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/bean/impl/OrderBeanImpl.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/bean/OrderDetailBean.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/bean/GlobalBean.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/model/Receipt.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/bean/OrderBean.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/bean/ReceiptBean.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/model/Order.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/model/CartDetail.java</file>
+            <file>file:/D:/Workspace/Java/EJB/BookShop/BookShop-ejb/src/java/bean/impl/OrderDetailBeanImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
